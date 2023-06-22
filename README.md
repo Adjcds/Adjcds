@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Adrielle
 - 👀 I'm interested in Front End (junior or internship)
-- 🌱 I am currently learning HTML, CSS, Database, Introduction to Algorithms and Java Script
+- 🌱 I am currently learning Front-end
 - 💞️ I'm looking to collaborate on Website and app development
 - 📫 How to get to me https://sites.google.com/view/adjcds/p%C3%A1gina-inicial
