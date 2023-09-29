@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=120&section=header"/>
+# Hii! I'm Adrielle
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adrielle;I'm+19+years+old;I'm+from+Brazil;I+student+Front+End;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adjcds&bg_color=000000&color=ff9494&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Eu sou designer (ilustradora e gráfica), atualmente estou me dedicando a área da programação com os estudos em Front-end. O meu sonho é criar experiências valiosas que unam tecnologia humanizada e bem-estar social centrado em atender às necessidades das pessoas. Tenho um grande interesse em aprender e aprimorar minhas habilidades, para tornar-me uma excelente profissional.
 
 ### Social:
 <div align="center"> 
@@ -19,12 +17,5 @@
  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Adjcds}/count.svg" /></p> 
-<br>
-</div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=120&section=footer"/>
 
