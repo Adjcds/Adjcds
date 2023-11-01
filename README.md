@@ -18,8 +18,13 @@ I am a designer (illustrator and graphic artist), currently dedicating myself to
  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" />
- 
  </div>
-
-
+ 
+### Próximas Tecnologias a Estudar
+<div align="center">
+ <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+ <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" />
+ <img align="center" alt="API" src="https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=api&logoColor=white" />
+</div>
 
