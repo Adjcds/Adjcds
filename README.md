@@ -1,6 +1,12 @@
-# Hii! I'm Adrielle
 
-Eu sou designer (ilustradora e gráfica), atualmente estou me dedicando a área da programação com os estudos em Front-end. O meu sonho é criar experiências valiosas que unam tecnologia humanizada e bem-estar social centrado em atender às necessidades das pessoas. Tenho um grande interesse em aprender e aprimorar minhas habilidades, para tornar-me uma excelente profissional.
+
+# 👋 Olá, sou a Adrielle!
+
+🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE. Essa experiência não só me proporciona a oportunidade de financiar meu curso, mas também representa um passo crucial em direção à realização do meu sonho: conquistar uma vaga de desenvolvedor de sistemas (ads).
+
+📚 No intenso ritmo dos estudos de Análise e Desenvolvimento de Sistemas, busco incessantemente aprimorar minha proficiência em inglês.
+
+🎨 Além do universo acadêmico e profissional, expresso minha criatividade por meio de artes digitais, compartilhando meu conteúdo nas redes sociais (Instagram).
 
 ### Social:
 <div align="center"> 
