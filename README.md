@@ -1,8 +1,7 @@
-
-
-# 👋 Olá, sou a Adrielle!
+## Prazer!! Sou a Adrielle <3
 
 🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE. Essa experiência não só me proporciona a oportunidade de financiar meu curso, mas também representa um passo crucial em direção à realização do meu sonho: conquistar uma vaga de desenvolvedor de sistemas (ads).
+## Meu <a href="https://adjcds.github.io/portfolio/home.html">Portfólio</a>
 
 📚 No intenso ritmo dos estudos de Análise e Desenvolvimento de Sistemas, busco incessantemente aprimorar minha proficiência em inglês.
 
