@@ -1,34 +1,36 @@
-## Prazer!! Sou a Adrielle <3
 
-🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE. Essa experiência não só me proporciona a oportunidade de financiar meu curso, mas também representa um passo crucial em direção à realização do meu sonho: conquistar uma vaga de desenvolvedor de sistemas (ads).
-## Meu <a href="https://adjcds.github.io/portfolio/home.html">Portfólio</a>
-
-📚 No intenso ritmo dos estudos de Análise e Desenvolvimento de Sistemas, busco incessantemente aprimorar minha proficiência em inglês.
-
-🎨 Além do universo acadêmico e profissional, expresso minha criatividade por meio de artes digitais, compartilhando meu conteúdo nas redes sociais (Instagram).
-
-### Social:
-<div align="center"> 
-<a href="https://www.instagram.com/galaxia_artz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "adrielle.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ajcds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
-### Skills:
-<div align="center">
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+<div align="center" style="text-align: center;">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&pause=1000&color=BF2CF7&center=true&random=false&width=500&height=65&lines=Oii%2C+Sou+a+Adrielle+%F0%9F%96%90%F0%9F%8F%BC;Estudante+de+Ads+e+Designer+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%96%8C%EF%B8%8F;Sinta+se+a+vontade+para+me+conhecer+%F0%9F%92%9C" alt="Typing SVG" /></a>
  
-### Estudando:
-<div align="center">
- <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
- <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
- <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
- <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
- <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
- <img align="center" alt="API" src="https://img.shields.io/badge/API-FF6F61?style=for-the-badge&logo=api&logoColor=white" />
 </div>
 
+<p align="center">
+  <a href="https://adjcds.github.io/portfolio/home.html">
+   <img src="https://img.shields.io/badge/Portfólio-6A5ACD?style=for-the-badge&logo=&logoColor=white" alt="blog">
+  </a>
+  <a href="https://www.linkedin.com/in/ajcds/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://www.instagram.com/starvalentz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+</p>
 
+🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE. Essa experiência não só me proporciona a oportunidade de financiar meu curso, mas também representa um passo crucial em direção à realização do meu sonho: conquistar uma vaga de desenvolvedora.
+
+<h2 align="center">👩‍💻Principais tecnologias:</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vscode,figma,&perline=14" />
+</div>
+
+<h2 align="center">🚀Estudando tecnologias:</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,cs,java,react,nodejs,c#,mysql,git,github,&perline=14" />
+<div/>
+<div/>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Adjcds&layout=compact&hide_border=true&theme=dracula"><a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adjcds&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+</p> 
