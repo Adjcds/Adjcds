@@ -28,7 +28,19 @@
 <img src="https://skillicons.dev/icons?i=py,cs,java,react,nodejs,c#,mysql,git,github,&perline=14" />
 <div/>
 <div/>
-
+<br>
+ <h2 align="center">Principais projetos:</h2>
+<p align="center">
+  <a href="https://adjcds.github.io/portfolio/home.html">
+   <img src="https://img.shields.io/badge/Portfólio-6A5ACD?style=for-the-badge&logo=&logoColor=white" alt="blog">
+  </a>
+  <a href="https://gelateria-delta.vercel.app/">
+    <img src="https://img.shields.io/badge/Sorveteria-FFE4B5?style=for-the-badge&logo=&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://adjcds.github.io/GameJS/">
+    <img src="https://img.shields.io/badge/Game da Cobrinha-8FBC8F?style=for-the-badge&logo=&logoColor=white" alt="instagram">
+  </a>
+</p>
 <br><br>
 
 <p align="center">
