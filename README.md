@@ -18,7 +18,7 @@
 
 🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE. Essa experiência não só me proporciona a oportunidade de financiar meu curso, mas também representa um passo crucial em direção à realização do meu sonho: conquistar uma vaga de desenvolvedora.
 
-<h2 align="center">👩‍💻Principais tecnologias:</h2>
+<h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vscode,figma,&perline=14" />
 </div>
