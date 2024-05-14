@@ -25,7 +25,7 @@
 
 <h2 align="center">🚀Estudando tecnologias:</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,cs,java,c#,mysql,git,github,&perline=14" />
+<img src="https://skillicons.dev/icons?i=py,cs,java,mysql,git,github,django,flask,fastapi&perline=14" />
 <div/>
 <div/>
 <br>
