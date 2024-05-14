@@ -16,7 +16,7 @@
   </a>
 </p>
 
-🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE, estou estudando Análise e desenvolvimento de sistemas pela Anhanguera(Tecnólogo).
+🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar admnistrativo por meio do CIEE, estou estudando Análise e desenvolvimento de sistemas pela Anhanguera(Tecnólogo).
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
