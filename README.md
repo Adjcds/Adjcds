@@ -16,7 +16,7 @@
   </a>
 </p>
 
-🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE. Essa experiência não só me proporciona a oportunidade de financiar meu curso, mas também representa um passo crucial em direção à realização do meu sonho: conquistar uma vaga de desenvolvedora.
+🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar na farmácia por meio do CIEE, estou estudando Análise e desenvolvimento de sistemas pela Anhanguera(Tecnólogo).
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
