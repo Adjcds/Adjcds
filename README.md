@@ -1,4 +1,3 @@
-
 <div align="center" style="text-align: center;">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&pause=1000&color=BF2CF7&center=true&random=false&width=500&height=65&lines=Oii%2C+Sou+a+Adrielle+%F0%9F%96%90%F0%9F%8F%BC;Estudante+de+Ads+e+Designer+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%F0%9F%96%8C%EF%B8%8F;Sinta+se+a+vontade+para+me+conhecer+%F0%9F%92%9C" alt="Typing SVG" /></a>
  
