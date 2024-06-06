@@ -19,7 +19,7 @@
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vscode,figma,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,figma,&perline=14" />
 </div>
 
 <h2 align="center">🚀Estudando tecnologias:</h2>
