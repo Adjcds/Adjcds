@@ -10,12 +10,12 @@
   <a href="https://www.linkedin.com/in/ajcds/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://www.instagram.com/starvalentz/">
+  <a href="https://www.instagram.com/jinne_artz/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
 </p>
 
-🚀 Atualmente, atuo como Jovem Aprendiz na Unimed, desempenhando o papel de auxiliar admnistrativo por meio do CIEE, estou estudando Análise e desenvolvimento de sistemas pela Anhanguera(Tecnólogo).
+🚀Comecei a estudar programação e pegar interrese por conta de um curso de Ux designer, depois acabei me aprofundando em front-end, logo após isso tive cede de conhecimento para procurar linguagens de programação e fazer cursos. Atualmente, atuo como Atendente de farmácia na Unimed e estou estudando Análise e desenvolvimento de sistemas pela Anhanguera (Tecnólogo). Após concluir meu tecnólogo pretendo fazer faculdade de engenharia de software e me tonar uma excelente profissional qualificada e bem conhecida na área.
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
