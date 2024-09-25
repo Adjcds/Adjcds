@@ -15,7 +15,7 @@
   </a>
 </p>
 
-🚀Comecei a estudar programação e pegar interrese por conta de um curso de Ux designer, depois acabei me aprofundando em front-end, logo após isso tive cede de conhecimento para procurar linguagens de programação e fazer cursos. Atualmente, atuo como Atendente de farmácia na Unimed e estou estudando Análise e desenvolvimento de sistemas pela Anhanguera (Tecnólogo). Após concluir meu tecnólogo pretendo fazer faculdade de engenharia de software e me tonar uma excelente profissional qualificada e bem conhecida na área.
+🚀Comecei a estudar programação e pegar interrese por conta de um curso de Ux designer, depois acabei me aprofundando em front-end, logo após isso tive cede de conhecimento para procurar linguagens de programação e fazer cursos. Atualmente, atuo como Atendente de farmácia na Unimed, e estou estudando Análise e desenvolvimento de sistemas pela Anhanguera (Tecnólogo). Após concluir meu tecnólogo pretendo fazer faculdade de engenharia de software e me tonar uma excelente profissional qualificada e bem conhecida na área.
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
