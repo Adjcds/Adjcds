@@ -15,7 +15,10 @@
   </a>
 </p>
 
-🚀Comecei a estudar programação e pegar interrese por conta de um curso de Ux designer, depois acabei me aprofundando em front-end, logo após isso tive cede de conhecimento para procurar linguagens de programação e fazer cursos. Atualmente, atuo como Atendente de farmácia na Unimed, e estou estudando Análise e desenvolvimento de sistemas pela Anhanguera (Tecnólogo). Após concluir meu tecnólogo pretendo fazer faculdade de engenharia de software e me tonar uma excelente profissional qualificada e bem conhecida na área.
+<div align="center"> • Estudante de análise e desenvolvimento de sistemas, da anhanguera.</div>
+<div align="center"> • Ex estudante da bolsa de front-end da devmedia, pelo Ifood🍕.</div>
+<div align="center"> • Trabalho na Unimed São carlos HII, atendente de farmácia.</div>
+<div align="center"> • Atualmente estou me dedicando a linguagem python 🐍💚.</div>
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
