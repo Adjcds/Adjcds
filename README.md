@@ -18,7 +18,7 @@
 <div align="center"> • Estudante de análise e desenvolvimento de sistemas, da anhanguera.</div>
 <div align="center"> • Ex estudante da bolsa de front-end da devmedia, pelo Ifood🍕.</div>
 <div align="center"> • Trabalho na Unimed São carlos HII, atendente de farmácia.</div>
-<div align="center"> • Atualmente estou me dedicando a linguagem Pyhton 🐍.</div>
+<div align="center"> • Atualmente estou me dedicando a criação de um livro para transforma-lo em um projeto .</div>
 
 <h2 align="center">👩‍💻Skills:</h2>
 <div align="center">
